@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Website can be reached by https://shanwc1972.github.io/module1-challenge/#social-media-marketing.
+Website can be reached by https://shanwc1972.github.io/module1-challenge.
 
 The following image shows the web application's appearance and functionality:
 
