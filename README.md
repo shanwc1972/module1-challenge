@@ -11,6 +11,12 @@ N/A
 
 ## Usage
 
+Website can be reached by https://shanwc1972.github.io/module1-challenge/#social-media-marketing.
+
+The following image shows the web application's appearance and functionality:
+
+![A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.](https://static.bc-edx.com/coding/software-dev/01-HTML-Git-CSS/assets/01-html-css-git-homework-demo.png)
+
 The website includes three links called Search Engine Optimization, Online Reputation Management and Social Media Marketing to allow the user to quickly jump to those sections on the page. 
 
 ## Credits
