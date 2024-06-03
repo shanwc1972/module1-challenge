@@ -23,7 +23,7 @@ h1 {
 .seo {
     color: #d9dcd6;
 }
-
+/* NAV element defined in place of a header class*/
 nav {
     margin-top: 15px;
     margin-right: 20px;
@@ -33,6 +33,7 @@ nav {
     list-style-type: none;    
 }
 
+/* Margin added for NAV element to clearly separate NAV items in the same row */ 
 nav a {
     margin-left: 25px;
 }
@@ -55,13 +56,14 @@ p {
     background-position: center;
 }
 
-
+/* Height property added to float-left class to set image height */
 .float-left {
     float: left;
     margin-right: 25px;
     height: 200;
 }
 
+/* Height property added to float-right class to set image height */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -133,9 +135,11 @@ p {
     max-width: 150px;
 }
 
+/* Aside class added to define image height */
 .aside {
     height: 150px;
 }
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -190,6 +194,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer element defined to replace footer class */
 footer {
     padding: 30px;
     clear: both;
@@ -197,6 +202,7 @@ footer {
     text-align: center;
 }
 
+/*Footer header defined to adjust font size */
 footer h2 {
     font-size: 20px;
 }
